@@ -32,6 +32,7 @@ header{
 body {
     font-family: "Hind";
     font-size: 14px;
+    margin: 0;
 }
 /*ul {
     list-style: none; /*убираем маркеры списка*/
